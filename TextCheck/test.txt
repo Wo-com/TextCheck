@@ -1,0 +1,3 @@
+just creat a file
+
+vi test.txt
